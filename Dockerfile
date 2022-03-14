@@ -1,3 +1,4 @@
+FROM ubuntu:20.04
 #Repo Clonning ⚡♥️
 RUN git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git /root/userbot
 
